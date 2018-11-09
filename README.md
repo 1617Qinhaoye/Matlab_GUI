@@ -1,7 +1,7 @@
 # Matlab_GUI
 工光个人仿真作业——16171048
 
-1.将文件夹【qinhaoye161710489】及子文件夹【add this folder to path】加入MATLAB路径中
+1.将文件夹加入MATLAB路径中
 
 2.运行gui_diff_circle.m
 
